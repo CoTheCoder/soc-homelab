@@ -6,13 +6,13 @@ Documenting my journey building a home lab to develop hands on skills for a SOC 
 Currently pursuing my BS in Cybersecurity and Information Assurance at WGU, targeting over 15 certifications. This repo is meant to track the lab projects, tools, and troubleshooting I work through along the way.
 
 ## Lab Environment
-- Hardware: CPU: Ryzen 7 9800X3D    GPU: RTX 5080    RAM: 64 GB of DDR5 at 6000 MT/s    Storage: 4 TB NvME m.2 990 EVO Plus
+- Hardware: CPU: GEEKOM A7 Max - Ryzen 9 7940HS, 64GB DDR5, 1TB NVMe SSD (expandable)
 - Hypervisor: Proxmox
 - Network: Proxmox bridges (vmbr0 WAN / vmbr1 isolated LAN), pfsense as gateway
 
 ## Projects
-- [ ] pfsense Firewall Setup
-- [ ] Active Directory Lab
+- [x] [pfsense Firewall Setup](./pfsense-firewall-setup/)
+- [x] [Active Directory Lab](./active-directory-lab/)
 - [ ] SIEM Deployment
 
 ## Contact
