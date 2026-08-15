@@ -11,9 +11,13 @@ Currently pursuing my BS in Cybersecurity and Information Assurance at WGU, targ
 - Network: Proxmox bridges (vmbr0 WAN / vmbr1 isolated LAN), pfsense as gateway
 
 ## Projects
+- [x] [Proxmox Install](./proxmox-install/)
 - [x] [pfsense Firewall Setup](./pfsense-firewall-setup/)
 - [x] [Active Directory Lab](./active-directory-lab/)
-- [ ] SIEM Deployment
+- [x] [SIEM Deployment](./siem-deployment/)
+- [ ] Attack & Detection Lab (Kali vs. Wazuh)
+- [ ] Windows Event Log Tuning
+- [ ] Sample Incident Response Writeup
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/cody-sumner-3330b32a8/)
